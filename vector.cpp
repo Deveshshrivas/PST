@@ -85,3 +85,4 @@ int main()
     cout<<ans[i]<<" ";
     cout<<endl;
 
+}
